@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a class="logo"><strong>Srikanth</strong> <span>Sathyanarayana</span></a>
+						<a href="index.html" class="logo"><strong>Srikanth</strong> <span>Sathyanarayana</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
@@ -140,6 +140,11 @@
 
 			</div>
 
+			<p>This page was last modified on <span id="demo"></span>.</p>
+
+			<script>
+			document.getElementById("demo").innerHTML = document.lastModified;
+			</script>
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
