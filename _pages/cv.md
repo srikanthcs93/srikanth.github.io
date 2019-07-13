@@ -33,11 +33,11 @@ Research Projects
 * Sensitivity analysis for active flow control in buffet (Jun 2018 - Oct 2018)
   * Collaborative work with Russell Quadros and Matteo Bernardini, Sapienza Università di Roma, Roma, Italia
 * Development of a Meshfree solver (Jan 2018 - Present)
-  * Collaborative work with Anil Nemili
+  * Collaborative work with [Anil Nemili](https://universe.bits-pilani.ac.in/hyderabad/nanil/Profile)
 * Development of an accurate and robust unstructured grid-based adjoint approach for compressible turbulent flows (Aug 2017 - Aug 2019)
-  * Advised by Anil Nemili
-  * Collaborative work with Praveen Chandrashekar from TIFR-CAM, Benguluru, India
+  * Advised by [Anil Nemili](https://universe.bits-pilani.ac.in/hyderabad/nanil/Profile)
+  * Collaborative work with [Praveen Chandrashekar](http://cpraveen.github.io/) from TIFR-CAM, Benguluru, India
   * Sponsored by DST-SERB 
 * Implementation and Evaluation of a New Numerical Scheme for Diffusive Fluxes using Finite Volume Method (Sep 2015 - Sep 2016)
-  * Master Thesis work advised by Niklas Andersson
-  * Find the report here
+  * Master Thesis work advised by [Niklas Andersson](https://www.chalmers.se/en/staff/Pages/niklas-andersson.aspx)
+  * Find the report [here](https://hdl.handle.net/20.500.12380/245809)
