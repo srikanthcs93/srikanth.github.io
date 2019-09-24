@@ -18,3 +18,5 @@ redirect_from:
 * [An online game based on VIM](https://vim-adventures.com/)
 * [Navigating quickly in VIM](https://jdhao.github.io/2019/06/26/movement_navigation_inside_nvim/)
 * [Project Euler](https://projecteuler.net/)
+* [Numerical PDE Techniques for Scientists and Engineers, Lecture series by Prof. Dinshaw Balsara](https://www3.nd.edu/~dbalsara/Numerical-PDE-Course/)
+* [Introduction to Numerical Methods for Partial Differential Equations, Lecture series by Prof. Qiqi Wang](https://www.youtube.com/channel/UCPVvF1gF2NMNWV-GQCCrpKQ/playlists?view=1&sort=dd&shelf_id=0&pbjreload=10/)
