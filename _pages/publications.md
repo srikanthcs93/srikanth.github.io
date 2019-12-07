@@ -7,7 +7,7 @@ author_profile: true
 
 Conference papers (peer reviewed)
 ======
-* **Sathyanarayana S.**, Nemili A., Bhole A. and Chandrashekar P., "Unsteady Adjoint Approach for Accurate Shape Sensitivities in Viscous Flows”, Accepted for presentation at *16<sup>th</sup> Asian Congress of Fluid Mechanics(ACFM)*, Bangalore, India, DEcember 2019
+* **Sathyanarayana S.**, Nemili A., Bhole A. and Chandrashekar P., "Unsteady Adjoint Approach for Accurate Shape Sensitivities in Viscous Flows”, Accepted for presentation at *16<sup>th</sup> Asian Congress of Fluid Mechanics(ACFM)*, Bangalore, India, Dec 2019
 
 * **Sathyanarayana S.**, Nemili A., Bhole A., Saxena A. and Chandrashekar P., "Adjoint based Sensitivity Analysis for Navier-Stokes Equations”, *21<sup>st</sup> AeSI CFD Symposium*, Bangalore, India, Aug 2019
 

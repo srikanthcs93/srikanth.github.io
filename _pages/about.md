@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Aeronautics and Space Engineering from Sapienza Università di Roma, Italia. I mainly work on developing discrete adjoint solvers for steady and unsteady fluid flows which will be used in aerodynamic optimisations. I have considerable experience in developing finite volume and meshfree based CFD solvers. I am the main developer of the meshfree solver, [mfcfd](https://bitbucket.org/srikanthcs05/mfcfd/wiki/Home "Bitbucket"). 
-						
-I have a growing expertise in the fascinating field of High Performance Computing. I extensively use the routines and data structures from the 
-open-source scientific computing tool [PETSc](https://www.mcs.anl.gov/petsc/). Additionally, I develop GPU parallel solvers on which I have been working on for quite some time now and believe it has serious potential in accelerating CFD solvers efficiently. I mainly use FORTRAN 90 to develop my codes but I am open to explore possibilities in developing codes with modern languages like Julia and Python especially from a HPC point of view. 
+I am a PhD student in Aeronautical and Space Engineering from Sapienza University of Rome, Italy. I am pursuing it under the supervision of Prof. Matteo Bernardini at the department of Mechanical and Aerospace Engineering. 
+
+I am adept at developing discrete adjoint solvers for steady and unsteady fluid flows. These solvers are mainly used for aerodynamic optimisations. I am involved in the development of the adjoint solver for the 3D unstructured compressible flow solver, [UG3](https://bitbucket.org/cpraveen/ug3/src/master/ "Bitbucket"). Further, I am also involved in the development of the meshfree solver, [MFCFD](https://bitbucket.org/srikanthcs05/mfcfd/wiki/Home "Bitbucket"). 
+ 
+I have a growing expertise in the fascinating field of High Performance Computing. I have separately worked on developing MPI-based, GPU accelerated CFD codes. Recently as a part of my PhD, I have been working on accelerating existing MPI-based CFD solvers through GPUs(Hybrid parallelisation). I believe GPUs have serious potential in further accelerating CFD solvers efficiently. I mainly use FORTRAN 90 to develop my codes but I am open to exploring possibilities in developing codes with modern languages like Julia and Python especially from a HPC point of view. 
+
+I would like to use this website to frequently update on the work I am involved in, both from my PhD and other projects. I generally come across Interesting things that I really feel is worth sharing with others, you can find these [here](others). 

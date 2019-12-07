@@ -40,4 +40,3 @@ Research Projects
   * Sponsored by DST-SERB 
 * Implementation and Evaluation of a New Numerical Scheme for Diffusive Fluxes using Finite Volume Method (Sep 2015 - Sep 2016)
   * Master Thesis work advised by [Niklas Andersson](https://www.chalmers.se/en/staff/Pages/niklas-andersson.aspx)
-  * Find the report [here](https://hdl.handle.net/20.500.12380/245809)
