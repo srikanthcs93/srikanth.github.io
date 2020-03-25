@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 Conference papers (peer reviewed)
 ======
-* **Sathyanarayana S.**, Nemili A., Bhole A. and Chandrashekar P., "Unsteady Adjoint Approach for Accurate Shape Sensitivities in Viscous Flows”, Accepted for presentation at *16<sup>th</sup> Asian Congress of Fluid Mechanics(ACFM)*, Bangalore, India, Dec 2019
+* **Sathyanarayana S.**, Quadros R., Nemili A. and Bernardini M., “Discrete Adjoint-Based Sensitivity Analysis For Active Control of Buffet”, Accepted for presentation at *55<sup>th</sup> 3AF International Conference on Applied Aerodynamics*, Poitiers, France, June 2020
 
 * **Sathyanarayana S.**, Nemili A., Bhole A., Saxena A. and Chandrashekar P., "Adjoint based Sensitivity Analysis for Navier-Stokes Equations”, *21<sup>st</sup> AeSI CFD Symposium*, Bangalore, India, Aug 2019
 
@@ -17,5 +17,6 @@ Conference papers (peer reviewed)
 
 Conference presentations
 ======
+* **Sathyanarayana S.**, Nemili A., Bhole A. and Chandrashekar P., "Unsteady Adjoint Approach for Accurate Shape Sensitivities in Viscous Flows”, *16<sup>th</sup> Asian Congress of Fluid Mechanics(ACFM)*, Bangalore, India, Dec 2019
 
 * Quadros R., **Sathyanarayana S.**, Nemili A. and Bernardini M., “Sensitivity Analysis For Active Control of Transonic Airfoil Buffet”, *71<sup>st</sup> Annual Meeting of the APS Division of Fluid Dynamics*, Atlanta, USA, Nov 2018

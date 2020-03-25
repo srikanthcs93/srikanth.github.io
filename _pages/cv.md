@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,6 +11,9 @@ redirect_from:
 
 Research Interests
 ======
+* Supersonic turbulent flows
+* Direct Numerical Simulations
+* Shock boundary layer Interaction
 * Discrete adjoint approach for steady and unsteady flows
 * Meshfree methods
 * High Performance Computing
@@ -30,9 +33,13 @@ Research experience
 
 Research Projects
 ======
+* Supersonic turbulent flows over rough surfaces (Nov 2019 - Present)
+  * PhD work advised by Prof. Matteo Bernardini
+* Sensitivity analysis for active flow control in buffet (Nov 2019 - Present)
+  * Collaborative work with Russell Quadros (Queen Mary University of London) and Anil Nemili (BITS-Pilani, Hyderabad Campus)
 * Sensitivity analysis for active flow control in buffet (Jun 2018 - Oct 2018)
   * Collaborative work with Russell Quadros and Matteo Bernardini, Sapienza Università di Roma, Roma, Italia
-* Development of a Meshfree solver (Jan 2018 - Present)
+* Development of a Meshfree solver (Jan 2018 - Aug 2019)
   * Collaborative work with [Anil Nemili](https://universe.bits-pilani.ac.in/hyderabad/nanil/Profile)
 * Development of an accurate and robust unstructured grid-based adjoint approach for compressible turbulent flows (Aug 2017 - Aug 2019)
   * Advised by [Anil Nemili](https://universe.bits-pilani.ac.in/hyderabad/nanil/Profile)
